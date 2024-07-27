@@ -11,8 +11,8 @@
 
 
     <groupId>com.github</groupId>
-    <artifactId>jrebel</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <artifactId>jrebel-license-server</artifactId>
+    <version>0.0.1</version>
     <name>jrebel</name>
     <description>Demo project for Spring Boot</description>
 
